@@ -41,8 +41,10 @@ Initialize → LED ON → Delay → LED OFF → Delay → Repeat
 <img width="1920" height="1020" alt="Screenshot 2026-11-03 103602" src="https://github.com/user-attachments/assets/2321f87f-97bf-4fd1-b6da-76773d76624b" />
 ## output image from Keil µVision
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7eb39f35-ddd9-433a-abf3-e7e7646d078d" />
+
 ## Observation
 The LED connected to Port 2 blinks continuously.
+
 ## Result
 The LED blinking program using the 8051 microcontroller was implemented and verified successfully.
 
